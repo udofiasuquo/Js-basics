@@ -12,4 +12,4 @@ function currencyConvert(dollar){
     return dollar * naira;
 }
 
-console.log(`One dollar is equivalent of N${currencyConvert(2)}.`);
+console.log(`One dollar is equivalent of N${currencyConvert(1)}.`);
